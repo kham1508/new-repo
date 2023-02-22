@@ -1,6 +1,6 @@
 # test r Script
 
-a <- 1
+a <- 100
 b <- a + 6
 b
 
